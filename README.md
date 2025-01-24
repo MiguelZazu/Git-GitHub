@@ -33,7 +33,7 @@ git branch
 git reset --hard 78889e5
 git log
 
-13.git merge main
+13. git merge main
 (Already up to date.)
 
 14. git checkout main
