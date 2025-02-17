@@ -77,7 +77,7 @@ git commit -m "Añado Titulo git-nuestro"
 25. git log --graph --decorate --pretty=oneline
 
 26. git merge --no-ff title
-(si se podría hacer merge fast forward por que el hay una ruta lineal desde el main hasta title)
+(si se podría hacer merge fast forward por que hay una ruta lineal desde el main hasta title)
 
 27. git log
 git reset d5e95ff
